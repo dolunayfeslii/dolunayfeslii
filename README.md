@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm dolunay</h1>
+<div align="right">
+  <a href="README-en.md">🇬🇧 English</a> | <a href="README.md">🇹🇷 Türkçe</a>
+</div><h1 align="center">Hi 👋, I'm dolunay</h1>
 <h3 align="center">I am a student studying Computer Programming at Kastamonu University, with a strong curiosity for discovering new knowledge and a continuous drive for self-improvement. I enjoy learning new technologies, turning what I learn into practical projects, and staying productive. With my analytical thinking skills and eagerness to research, I approach problems with a solution-oriented mindset. By taking an active role in both individual and team projects, I aim to continuously advance myself in the field of software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolunayfezslii&label=Profile%20views&color=0e75b6&style=flat" alt="dolunayfezslii" /> </p>
