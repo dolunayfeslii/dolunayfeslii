@@ -8,7 +8,7 @@ Kastamonu Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Yeni bilgil
 
 - 🚀 Supernova adıyla kurduğumuz ekipte Teknofest için herkesin işini çok kolaylaştıracak bir proje geliştiriyoruz: Akıllı personel finans asistanı.
 - 💼 Tüm projelerime [LinkedIn](https://www.linkedin.com/in/dolunayfeslii/) üzerinden ulaşabilirsiniz.
-- 📫 Bana ulaşmak için: **dolunayfeslii@gmail.com**
+- 📫 Bana ulaşmak için: **dolunayfesli@gmail.com**
 
 ## Diller ve Araçlar:
 - C# | HTML | CSS | JavaScript | Python | MySQL
